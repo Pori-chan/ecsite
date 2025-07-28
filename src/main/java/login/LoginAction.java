@@ -1,4 +1,4 @@
-package chapter24;
+package login;
 
 import bean.Customer;
 import dao.CustomerDAO;

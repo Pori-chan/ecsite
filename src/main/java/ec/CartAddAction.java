@@ -1,4 +1,4 @@
-package chapter25;
+package ec;
 
 import bean.Item;
 import bean.Product;

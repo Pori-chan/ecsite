@@ -1,4 +1,4 @@
-package chapter25;
+package ec;
 
 import bean.Product;
 import dao.ProductDAO;
